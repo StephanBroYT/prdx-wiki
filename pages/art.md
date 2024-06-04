@@ -7,7 +7,7 @@ title: "Мир артов"
 Чтобы попасть в мир артов — зайдите в портал слева от платформы в энде. 
 
 ![](https://github.com/digitaldrugstech/prdx-wiki/blob/main/assets/art/portal.png?raw=true)
-![](https://digitaldrugstech/prdx-wiki/blob/main/assets/art/world.png?raw=true)
+![](https://github.com/digitaldrugstech/prdx-wiki/blob/main/assets/art/world.png?raw=true)
 
 ## Правила мира артов
 
